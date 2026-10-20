@@ -2,6 +2,8 @@ module github.com/projectdiscovery/tlsx
 
 go 1.25.0
 
+toolchain go1.26.10
+
 require (
 	github.com/google/certificate-transparency-go v1.3.3
 	github.com/hdm/jarm-go v0.0.8
